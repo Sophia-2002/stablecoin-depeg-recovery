@@ -1,0 +1,9 @@
+feature_a,feature_b,r
+eth_ret_7d,eth_mcap_chg_7d,0.999
+sc_vol_30d,sc_price_dev_30d,0.889
+btc_realized_vol,eth_realized_vol,0.882
+btc_ret_7d,eth_mcap_chg_7d,0.768
+btc_ret_7d,eth_ret_7d,0.767
+btc_ret_30d,eth_ret_30d,0.765
+btc_ret_1d,eth_ret_1d,0.728
+sc_vol_5d,sc_vol_30d,0.716

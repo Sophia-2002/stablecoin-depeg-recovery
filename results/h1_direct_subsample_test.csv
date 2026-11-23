@@ -1,0 +1,4 @@
+test,statistic,p_value,n
+Fisher's exact (unconditional),OR=0.733,0.583,84
+Logistic regression (controlling for initial_deviation_pct),"OR=2.295 [0.689, 7.639]",0.176,84
+Nested CV type_algo selection frequency,0% of folds,,84

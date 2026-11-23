@@ -1,0 +1,8 @@
+feature,reason
+eth_mcap_chg_7d,r=0.999 with eth_ret_7d: ETH market cap change ≈ price return (circulating supply near-constant short-term)
+sc_vol_30d,"r=0.889 with sc_price_dev_30d: retain sc_price_dev_30d (peg-specific deviation measure, more theoretically relevant)"
+btc_realized_vol,r=0.882 with eth_realized_vol: both measure market stress; ETH retained (Ethereum-native stablecoins in sample)
+btc_ret_7d,r=0.767 with eth_ret_7d: both measure weekly market return; ETH retained (Ethereum-native stablecoins in sample)
+btc_ret_30d,r=0.765 with eth_ret_30d: both measure monthly market return; ETH retained (same reasoning)
+btc_ret_1d,r=0.728 with eth_ret_1d: both measure daily market return; ETH retained (same reasoning)
+type_tokenised,Reference category for dummy variable set (avoids dummy trap)

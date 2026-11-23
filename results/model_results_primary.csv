@@ -1,0 +1,5 @@
+label,n_folds,f1_mean,f1_std,recall_mean,recall_std,prec_mean,auc_mean,auc_std,avg_n_feats
+LR  class_weight,25,0.415,0.165,0.593,0.274,0.347,0.697,0.142,1.7
+RF  class_weight,25,0.378,0.2,0.492,0.295,0.323,0.69,0.155,3.0
+LR  + SMOTE,25,0.42,0.189,0.573,0.3,0.36,0.699,0.147,1.7
+RF  + SMOTE,25,0.38,0.169,0.54,0.306,0.311,0.689,0.159,3.0

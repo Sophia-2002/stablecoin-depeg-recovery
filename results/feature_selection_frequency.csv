@@ -1,0 +1,10 @@
+feature,count,pct
+initial_deviation_pct,25,100.0
+sc_price_dev_5d,5,20.0
+eth_realized_vol,4,16.0
+sc_vol_5d,3,12.0
+sc_ret_7d,2,8.0
+sc_price_dev_30d,1,4.0
+sc_ret_1d,1,4.0
+sc_vol_chg_1d,1,4.0
+eth_ret_7d,1,4.0

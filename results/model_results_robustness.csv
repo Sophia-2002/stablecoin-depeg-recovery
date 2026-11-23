@@ -1,0 +1,7 @@
+label,n_folds,f1_mean,f1_std,recall_mean,recall_std,prec_mean,auc_mean,auc_std,avg_n_feats
+LR  class_weight [group-aware],5,0.246,0.244,0.56,0.463,0.17,0.614,0.178,3.4
+RF  class_weight [group-aware],5,0.386,0.194,0.505,0.202,0.354,0.72,0.137,3.6
+LR  class_weight [7d cutoff],25,0.172,0.156,0.327,0.304,0.131,0.54,0.23,3.9
+RF  class_weight [7d cutoff],25,0.17,0.215,0.207,0.237,0.179,0.618,0.135,3.8
+LR  class_weight [excl. zero-slow],25,0.402,0.19,0.501,0.274,0.371,0.672,0.179,2.4
+RF  class_weight [excl. zero-slow],25,0.471,0.132,0.581,0.246,0.436,0.758,0.115,2.0
