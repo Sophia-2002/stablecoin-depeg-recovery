@@ -2,7 +2,7 @@
 
 **Can we predict whether a stablecoin recovers its $1 peg quickly after a depeg event?**
 
-MSc Business Analytics dissertation, Alliance Manchester Business School (University of Manchester)
+MSc Business Analytics dissertation, University of Manchester
 
 `Python` · `scikit-learn` · `statsmodels` · `pandas` · `imbalanced-learn` · `matplotlib`
 
