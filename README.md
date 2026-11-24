@@ -68,4 +68,4 @@ jupyter notebook notebooks/stablecoin_complete_pipeline.ipynb
 - The slow class is dominated by a few systemic crises
 
 ---
-**Author:** Yi-Wen (Sophia) Su · [LinkedIn](https://www.linkedin.com/in/yi-wen-su-523a54433/)
+**Author:** Sophia Su · [LinkedIn](https://www.linkedin.com/in/yi-wen-su-523a54433/)
